@@ -1,0 +1,15 @@
+{
+  "name": "rivendellweb-block-template",
+	"version": "0.1.0",
+	"description": "A basic block template with RichText",
+	"author": "Carlos Araya",
+	"license": "MIT",
+	"keywords": [
+		"wordpress",
+		"create block",
+		"block template"
+	],
+	"publishConfig": {
+		"access": "public"
+	}
+}
