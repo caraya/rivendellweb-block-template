@@ -9,6 +9,14 @@
 		"create block",
 		"block template"
 	],
+	"homepage": "https://github.com/caraya/rivendellweb-block-template",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/caraya/rivendellweb-block-template.git"
+	},
+	"bugs": {
+		"url": "https://github.com/caraya/rivendellweb-block-template/issues"
+	},
 	"publishConfig": {
 		"access": "public"
 	}
